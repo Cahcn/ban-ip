@@ -17,6 +17,9 @@
 # Qingdao, Shandong
 221.215.39.0/24
 
+# Changchun, Jilin
+106.41.233.0/24
+
 
 
 # Aliyun ad
