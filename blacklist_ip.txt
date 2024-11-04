@@ -1,4 +1,4 @@
-# Generated: 2024-09-27
+# Generated: 2024-11-04
 
 # Daqing, Heilongjiang
 36.132.168.0/24
@@ -19,6 +19,7 @@
 
 # Changchun, Jilin
 106.41.233.0/24
+123.173.206.0/24
 
 
 
