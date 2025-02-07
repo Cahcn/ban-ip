@@ -3,11 +3,14 @@ AS714 APPLE-ENGINEERING
 AS8075 MICROSOFT-CORP-MSN-AS-BLOCK
 AS14618 AMAZON-AES
 AS16509 AMAZON-02
+AS46844
+AS55960 BJ-GUANGHUAN-AP Beijing Guanghuan Xinwang Digital
 AS209366 SEMRUSH-AS
 
 # UA
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)
 Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
 
-
-
+python-requests
+Go-http-client
