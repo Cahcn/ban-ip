@@ -1,4 +1,4 @@
-# Generated: 2025-02-03
+# Generated: 2025-02-11
 
 # Daqing, Heilongjiang
 36.132.168.0/24
@@ -13,6 +13,10 @@
 221.209.246.0/24
 223.104.113.0/24
 223.104.116.0/24
+
+# Zhaozhou, Daqing, Heilongjiang
+2408:8239:4000::/40
+2408:8439:4000::/40
 
 # Harbin, Heilongjiang (mobile network)
 # 0a6b7d51-ca38-5455-869c-d11d333643d0
@@ -33,7 +37,7 @@
 # Changchun, Jilin (true)
 175.18.157.0/24
 
-# Local Area Network
+# Local Area Network (proxy)
 # 86d640cf-635d-5a5c-823b-51e74268e3e6
 10.154.0.0/16
 10.223.0.0/16
